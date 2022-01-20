@@ -6,4 +6,4 @@
 ☄️ I'm currentely learning ReScript, React, Next and GraphQL<br/>
 
 
-<h2 align="center"><img alt="Fushiguro" src="https://prnt.sc/26fzmze" /> - Welcome!⚡🍏</h2>
+<h2 align="center"><img alt="Fushiguro" src="https://i.ibb.co/R6cysk2/2382786932-removebg-preview.png" /> - Welcome!⚡�</h2>
