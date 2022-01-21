@@ -6,7 +6,7 @@ My name is Ezequiel Petry Menneck, I was born in Brazil, in 2001, and currently 
 
 ***
 
-### I'm ...
+### I'm ☂️...
 
 - seeking out the first opportunity how frontend developer
 - currently learning ReScript, React, JavaScript, GraphQL and sometimes rust for fun
