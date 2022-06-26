@@ -1,4 +1,4 @@
-<h2 align="center"><img alt="Killua" src="https://i.ibb.co/J2WtZZ3/2382786932-removebg-preview-removebg-preview.png" /> - Welcome!⚡</h2>
+<h2>Welcome!⚡</h2>
 
 ### About me
 
