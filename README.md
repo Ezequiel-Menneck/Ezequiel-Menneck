@@ -9,7 +9,7 @@ My name is Ezequiel Petry Menneck, I was born in Brazil, in 2001, and currently 
 ### I'm ☂️...
 
 - seeking out the first opportunity how developer
-- currently learning TypeScript, JavaScript, React
+- currently learning TypeScript,React, Java, Spring Boot, JPA, PostgreSQL, Docker, Kubernets
 
 ### These are my favorite languages and libraries
 
