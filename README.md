@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Ezequiel Petry Menneck, I was born in Brazil, in 2001, and currently I live in São Bonifácio, a small city close of Florianópolis. I study Information Systems at @unisul and computer science on my own...
+My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @unisul and computer science on my own...
 
 ***
 
