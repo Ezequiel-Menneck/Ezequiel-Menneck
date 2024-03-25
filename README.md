@@ -8,13 +8,8 @@ My name is Ezequiel Petry Menneck, I was born in Brazil, in 2001, and currently 
 
 ### I'm ☂️...
 
-- currently learning TypeScript, React, Java, Spring Boot, JPA, PostgreSQL, Docker, Kubernets
-
-### These are my favorite languages and libraries
-
-|              TypeScript             |            React            |             Java            |             Spring Boot            |
-|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://uploaddeimagens.com.br/images/003/931/776/original/ts-logo-128.png?1657201952"></a> | <a href="https://pt-br.reactjs.org"><img alt="React" src="https://i.ibb.co/ZSqrmNt/logo-react-icon.png"></a> | <a href="https://www.java.com/pt-BR/"><img alt="Java Logo" src="https://i.ibb.co/MsdmKcC/logo-java-256-1.png"></a> | <a href="https://spring.io/projects/spring-boot"><img alt="Sprin Boot Logo" src="https://i.ibb.co/zsqgd9M/pngaaa-com-2459500-1-1.png"></a> | 
+- currently learning Javascript, TypeScript, Java, Spring Boot, Go, PostgreSQL, Docker, Kubernets
+- trying to be a backend mage
 
 ***
 
