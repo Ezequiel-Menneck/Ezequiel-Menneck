@@ -8,7 +8,8 @@ My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @
 
 ### I'm ☂️...
 
-- currently learning Javascript, TypeScript, Java, Spring Boot, Go, PostgreSQL, Docker, Kubernets
+- working with Java, Spring, Angular and another techs in Igaming industry
+- currently learning more deep Java, Spring Boot, Go, PostgreSQL, Docker, Kubernets
 - trying to be a backend mage
 
 ***
