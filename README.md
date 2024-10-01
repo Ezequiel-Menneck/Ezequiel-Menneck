@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @unisul and computer science on my own...
+My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @unisul and i study computer science on my own...
 
 ***
 
