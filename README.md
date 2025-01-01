@@ -2,15 +2,14 @@
 
 ### About me
 
-My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @unisul and i study computer science on my own...
+My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @unisul and I study computer science on my own...
 
 ***
 
 ### I'm ☂️...
 
 - working with Java, Spring, Angular and another techs in Igaming industry
-- currently learning more deep Java, Spring Boot, Go, PostgreSQL, Docker, Kubernets
-- trying to be a backend mage
+- currently learning more deep Java, Spring Boot, Typescript, React, Go, PostgreSQL, Docker, Kubernets, AWS
 
 ***
 
