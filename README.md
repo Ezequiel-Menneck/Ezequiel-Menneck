@@ -8,8 +8,9 @@ My name is Ezequiel Petry Menneck, I have a degree in Information Systems from @
 
 ### I'm ☂️...
 
-- working with Java, Spring, Angular and another techs in Igaming industry
+- working with Java, Spring, Vue, AWS and another techs in Healthcare and Fintech industry
 - currently learning more deep Java, Spring Boot, Typescript, React, Go, PostgreSQL, Docker, Kubernets, AWS
+- in love with OCaml
 
 ***
 
